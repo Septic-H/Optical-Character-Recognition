@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="a0af5e16-bb43-46bf-9c22-653c076fd085" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (Optical-Character-Recognition)" />
   </component>
 </project>
