@@ -1,0 +1,1 @@
+This project implements an Optical Character Recognition (OCR) system using an Artificial Neural Network (ANN) inspired by the guide in The Architecture of Open Source Applications: 500 Lines or Less (https://aosabook.org/en/500L/optical-character-recognition-ocr.html)
